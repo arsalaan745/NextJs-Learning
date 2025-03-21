@@ -15,7 +15,7 @@ export default function Home() {
         </Link>
         <Link
           className="border border-indigo-600 text-indigo-600 rounded-md px-4 py-2 hover:bg-indigo-600 hover:text-white transition"
-          href="/signUp"
+          href="/signup"
         >
           Sign Up
         </Link>
