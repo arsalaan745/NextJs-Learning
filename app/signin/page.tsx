@@ -6,7 +6,7 @@ export default function SignIn() {
   return (
     <div className="flex justify-center items-center h-screen bg-dark-900">
       <div className="border bg-white p-8 rounded-2xl flex flex-col gap-3 w-80">
-        <h2 className="text-xl font-semibold text-gray-700 text-center">Sign Up</h2>
+        <h2 className="text-xl font-semibold text-gray-700 text-center">SignIn</h2>
         <input
           type="text"
           placeholder="Username"
